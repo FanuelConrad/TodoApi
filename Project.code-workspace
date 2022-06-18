@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\PlatformIO\\Projects\\Thinger_IO ESP32 Sim800L"
+		},
+		{
+			"name": "Kuza_IoT_Hardware",
+			"path": "..\\..\\PlatformIO\\Projects\\Kuza_IoT_Hardware"
+		},
+		{
+			"name": "100DaysOfCode",
+			"path": "..\\100DaysOfCode"
+		},
+		{
+			"name": "test",
+			"path": "..\\..\\PlatformIO\\Projects\\test"
+		},
+		{
+			"name": "ESP32 GPS test",
+			"path": "..\\..\\PlatformIO\\Projects\\ESP32 GPS test"
+		},
+		{
+			"path": "..\\WebAPIClient"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
